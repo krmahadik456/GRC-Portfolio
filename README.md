@@ -1,20 +1,52 @@
-# Complete Information Security Policy Suite
+# GRC Portfolio — Kaustubh Mahadik
 
-> A comprehensive set of 6 security policies aligned with ISO 27001 and SOC 2 standards for a mock fintech company.
+> A complete Governance, Risk, and Compliance (GRC) portfolio demonstrating practical skills in policy development, risk assessment, and compliance mapping.
 
 ---
 
-## 📌 Project Overview
+## 👤 About Me
 
-This project demonstrates my ability to create complete, professional security policies from scratch. I developed a full policy suite for **SecurePay Technologies Pvt. Ltd.** , a fictional fintech company handling digital payments and customer financial data.
+Aspiring GRC Analyst with hands-on experience in:
+- Information Security Policy Development
+- Risk Assessment and Management
+- Compliance Mapping (ISO 27001, SOC 2, GDPR)
+- Incident Response Planning
+- Third-Party Risk Assessment
 
-## 🏢 Company Profile
+📞 +91 8793351453
+✉️ krmahadik4567@gmail.com
+🔗 LinkedIn: linkedin.com/in/kaustubh-mahadik-433542380
+🔗 GitHub: github.com/krmahadik456
+
+---
+
+## 📂 Projects Included
+
+| # | Project | Description |
+|---|---------|-------------|
+| 1 | **Policy Suite Development** | Complete set of 6 security policies aligned with ISO 27001 and SOC 2 |
+| 2 | **Risk Assessment Report** | Comprehensive risk assessment with 7 identified risks, risk register, and heatmap |
+
+---
+
+## 🔗 Project Links
+
+### Project 1: Policy Suite
+- [View Project](https://github.com/krmahadik456/GRC-Portfolio/tree/main/Project-1-Policy-Suite)
+- **What's Included:** Information Security Policy, Access Control Policy, Incident Response Plan, Acceptable Use Policy, Data Protection Policy, Policy Acknowledgment Form
+
+### Project 2: Risk Assessment
+- [View Project](https://github.com/krmahadik456/GRC-Portfolio/tree/main/Project-2-Risk-Assessment)
+- **What's Included:** Risk Assessment Report, Risk Register, Risk Heatmap, Executive Summary
+
+---
+
+## 🏢 Company Profile (Mock)
 
 | Detail | Information |
 |--------|-------------|
 | **Company Name** | SecurePay Technologies Pvt. Ltd. |
 | **Industry** | FinTech |
-| **Founded** | 2021 |
 | **Employees** | 180 |
 | **Headquarters** | Bengaluru, India |
 | **Services** | Digital payment processing, mobile wallet, merchant services |
@@ -23,57 +55,10 @@ This project demonstrates my ability to create complete, professional security p
 
 ---
 
-## 📋 Policies Included
-
-| # | Policy Name | Purpose |
-|---|-------------|---------|
-| 1 | Information Security Policy | Master policy establishing the security framework |
-| 2 | Access Control Policy | Defines who can access what, and under what conditions |
-| 3 | Incident Response Plan | Step-by-step guide for handling security incidents |
-| 4 | Acceptable Use Policy | Defines how employees can use company IT resources |
-| 5 | Data Protection Policy | Defines how sensitive data is handled, classified, and protected |
-| 6 | Policy Acknowledgment Form | Employee sign-off for policy acceptance |
-
----
-
-## 🔑 Key Features
-
-### ✅ All Policies Include:
-- Clear purpose and scope statements
-- Detailed policy statements (the actual rules)
-- Defined roles and responsibilities
-- Compliance and enforcement sections
-- Review and update schedules
-- Revision history
-
-### ✅ Aligned With:
-- ISO/IEC 27001:2022
-- SOC 2 Trust Services Criteria
-- NIST Cybersecurity Framework (CSF)
-- GDPR (General Data Protection Regulation)
-- PCI DSS (Payment Card Industry Data Security Standard)
-
----
-
-## Repository Structure
-
-```
-GRC-Policy-Suite-Project/
-├── README.md
-├── 01_Information_Security_Policy.md
-├── 02_Access_Control_Policy.md
-├── 03_Incident_Response_Plan.md
-├── 04_Acceptable_Use_Policy.md
-├── 05_Data_Protection_Policy.md
-└── 06_Policy_Acknowledgment_Form.md
-```
-
----
-
 ## 🛠️ Tools Used
 
-- Microsoft Word / Google Docs (policy creation)
-- Microsoft Excel (acknowledgment form)
+- Microsoft Word / Google Docs (documentation)
+- Microsoft Excel (risk matrices, heatmaps)
 - GitHub (version control and portfolio)
 
 ---
@@ -84,51 +69,45 @@ GRC-Policy-Suite-Project/
 |-------|------------------|
 | **Policy Writing** | Created 6 complete policies from scratch |
 | **Governance** | Established security framework and structure |
-| **Risk Management** | Addressed risks through clear policy statements |
+| **Risk Assessment** | Identified and scored 7 risks using 5x5 matrix |
+| **Risk Management** | Created risk treatment plans and recommendations |
 | **Compliance Mapping** | Aligned policies with ISO 27001, SOC 2, GDPR |
 | **Documentation** | Professional, structured documentation |
-| **Industry Knowledge** | Applied fintech regulatory requirements |
 
 ---
 
 ## 🎯 Interview Talking Points
 
-**Q: "What policies have you created?"**
-> "I created a complete security policy suite for a mock fintech company, including an Information Security Policy, Access Control Policy, Incident Response Plan, Acceptable Use Policy, and Data Protection Policy. All policies were aligned with ISO 27001 and SOC 2 standards."
+**Q: "What GRC projects have you done?"**
+> "I've completed two major GRC projects. First, I created a complete security policy suite for a mock fintech company, including 6 policies aligned with ISO 27001. Second, I conducted a comprehensive risk assessment where I identified 7 risks, scored them using a 5x5 matrix, and created a risk treatment plan."
 
-**Q: "How do you approach policy writing?"**
-> "I start by understanding the business context and regulatory requirements. Then I draft the policy structure, write the policy statements, define roles and responsibilities, and include compliance enforcement mechanisms."
+**Q: "What frameworks are you familiar with?"**
+> "I'm familiar with ISO 27001, SOC 2, NIST CSF, GDPR, and PCI DSS. I've applied all of these in my projects."
 
-**Q: "What frameworks did you align your policies to?"**
-> "I aligned all policies with ISO 27001:2022, SOC 2 Trust Services Criteria, NIST CSF, and GDPR. For example, the Access Control Policy maps to ISO 27001 Section 9.1 and NIST SP 800-53 AC-2, AC-3, and AC-6."
-
-**Q: "How do you ensure policies are actually followed?"**
-> "I included compliance monitoring mechanisms in every policy, such as regular audits, access reviews, and enforcement sections. I also created a Policy Acknowledgment Form to document employee acceptance."
+**Q: "How do you approach risk assessment?"**
+> "I start by identifying assets and threats, then assess likelihood and impact using a 5x5 matrix. I prioritize risks, document everything in a risk register, and create a risk treatment plan with clear recommendations."
 
 ---
 
-## 📈 What This Project Proves
+## 📈 What This Portfolio Proves
 
 | Skill | Proof |
 |-------|-------|
-| **Governance** | Created a complete security framework |
-| **Risk Management** | Addressed risks through policy controls |
-| **Compliance** | Aligned with multiple frameworks |
-| **Communication** | Wrote clear, professional documents |
-| **Attention to Detail** | Included version history, review dates, references |
+| **Governance** | Complete security policy suite |
+| **Risk Management** | 7 risks identified, scored, and treated |
+| **Compliance** | Aligned with 5 frameworks |
+| **Communication** | Clear, professional documentation |
+| **Attention to Detail** | Version history, review dates, references |
 
 ---
 
-## 👤 About Me
+## 📞 Contact
 
 **Kaustubh Mahadik**
-Aspiring GRC Analyst | Cybersecurity Enthusiast
 📞 +91 8793351453
 ✉️ krmahadik4567@gmail.com
 🔗 LinkedIn: linkedin.com/in/kaustubh-mahadik-433542380
 🔗 GitHub: github.com/krmahadik456
-
-> *"This project demonstrates my ability to create professional security policies from scratch—a core skill for any GRC professional."*
 
 ---
 
