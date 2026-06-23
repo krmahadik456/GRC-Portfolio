@@ -71,3 +71,21 @@
 ---
 
 ## Risk Heatmap
+
+Impact (Y-axis: 1=Low to 5=High)
+Likelihood (X-axis: 1=Low to 5=High)
+
+Risks:
+- VR001: Impact 4, Likelihood 4 (High Priority)
+- VR002, VR003, VR004: Impact 4, Likelihood 3 (Medium Priority)
+- VR005, VR006: Impact 3, Likelihood 2 (Low Priority)
+- VR007: Impact 2, Likelihood 2 (Low Priority)
+
+---
+
+## Revision History
+
+
+| Version | Date | Author | Changes |
+|---------|------|--------|---------|
+| 1.0 | June 24, 2026 | Kaustubh Mahadik | Initial creation |
