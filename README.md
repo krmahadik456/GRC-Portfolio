@@ -96,21 +96,6 @@ Aspiring GRC Analyst with hands-on experience in:
 
 ---
 
-## 🎯 Interview Talking Points
-
-Q: "What GRC projects have you done?"
-A: "I've completed three major GRC projects. First, I created a complete security policy suite for a mock fintech company, including 6 policies aligned with ISO 27001. Second, I conducted a comprehensive risk assessment where I identified 7 risks, scored them using a 5x5 matrix, and created a risk treatment plan. Third, I performed a vendor risk assessment with a questionnaire, scorecard, and risk report."
-
-Q: "What frameworks are you familiar with?"
-A: "I'm familiar with ISO 27001, SOC 2, NIST CSF, GDPR, and PCI DSS. I've applied all of these in my projects."
-
-Q: "How do you approach risk assessment?"
-A: "I start by identifying assets and threats, then assess likelihood and impact using a 5x5 matrix. I prioritize risks, document everything in a risk register, and create a risk treatment plan with clear recommendations."
-
-Q: "How do you assess third-party vendors?"
-A: "I use a comprehensive questionnaire aligned with SOC 2 and ISO 27001 standards, score vendors using a weighted scoring system, and create a risk report with clear recommendations."
-
----
 
 ## 📞 Contact
 
